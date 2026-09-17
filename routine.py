@@ -1,0 +1,5 @@
+print("I wake up at 6:30")
+print("I go to school at 7:50")
+print("I play with my frends in the evning")
+print("I study 2 hours at night")
+print("I every week I study hours: 14")
