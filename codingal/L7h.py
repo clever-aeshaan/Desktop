@@ -1,5 +1,6 @@
 age_input = input("Enter your age: ")
 
+try:
     age = int(age_input)
     
     if age >= 10 and age <= 20:
