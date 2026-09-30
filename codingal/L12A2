@@ -15,7 +15,7 @@ star.left(120)
 
 star.penup()
 star.right(120)
-star.forward(100)
+star.forward(50)
 star.pendown()
 
 star.forward(100)

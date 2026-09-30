@@ -9,4 +9,5 @@ try:
         print("The age is NOT between 10 and 20.")
 
 
+except ValueError:
     print("Invalid input! Please enter a valid whole number for age.")
