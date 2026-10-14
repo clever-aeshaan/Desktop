@@ -6,3 +6,4 @@ def shutdown():
         print("aborting shutdown")
     else:
         print("sorry, invalid input")
+shutdown()
