@@ -1,7 +1,7 @@
 import random
 
 playing = True
-number = str(random.randint(0, 9))
+number = str(random.randint(1, 9))
 
 print("I will print a number from 1 to 9 try o figure out the number! :)")
 
