@@ -1,0 +1,12 @@
+tuple1 = ('banana', 'true', 3.14159, 67)
+
+tuple2 = ('ba', 'nana', 'r da', 'best')
+
+tuple3 = (1, 2, 3, 4, 5, 6, 3, 2, 1, 5, 7, 8, 0, 9, 8,6,3)
+
+print(tuple1)
+print(tuple2)
+print(tuple3)
+print(tuple3.count(6))
+print(tuple3[3:7])
+print(tuple3[:6])
