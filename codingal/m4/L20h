@@ -1,0 +1,8 @@
+import math
+
+my_tuple = (4, 3, 2, 2, -1, 18)
+
+product = math.prod(my_tuple)
+
+print(f"Original Tuple: {my_tuple}")
+print(f"Product of the elements: {product}")
